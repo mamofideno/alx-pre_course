@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bash
 echo "The school is so cool!"
-echo "the other line of code"
-=======
-i#!/bin/bash
-echo "The school is so cool!"
->>>>>>> update_script
+
